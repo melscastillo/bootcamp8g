@@ -1,0 +1,49 @@
+header {
+
+    background-color: aqua;
+    height: 200px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 3px solid pink;
+    margin:20px;
+
+}
+
+header nav {
+    background: rgb(226, 43, 171);
+    width: 90%;
+    margin:0 auto 10px;
+    height: 45px;
+}
+
+section {
+
+    background-color: rgb(119, 83, 177);
+    padding:10px 20px; 
+    border: 3px solid black;
+    margin: 20px;
+    width: 70%;
+}
+
+section article {
+    background-color: pink;
+    border-radius: 5px;
+    padding:10px;
+    margin:5px 0 10px ;
+}
+
+aside{ 
+    background-color: rgb(231, 93, 146);
+    height: 500px;
+    width: 20%;
+    border: 3px solid black;
+    margin:20px;
+}
+
+footer{
+    background-color: rgb(135, 170, 235); 
+    height: 75px;
+    border: 3px solid rgb(49, 0, 128);
+    margin: 20px; 
+}
