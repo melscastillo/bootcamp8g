@@ -1,0 +1,19 @@
+*{
+    color:peru;
+}
+
+#btn1 {
+    font-weight: bold; 
+    list-style-type:none;
+    border: 1px solid black;
+    box-shadow: 3px 3px 5px gray
+
+}
+#btn1 li{
+    border: 1px solid rgb(30, 140, 230)  
+}
+.pink {
+    color:rgb(224, 149, 224);
+    text-transform: uppercase;
+
+}
